@@ -1,2 +1,2 @@
 # python-101
-Coursework and practice for Python 101
+> Early learning repo – kept for progress tracking
